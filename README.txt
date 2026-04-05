@@ -1,6 +1,6 @@
 This project came about as I have been trying to develop new ways to teach Chinese Mandarin to some of my local homeschooled children. My goal is to make the process of learning Chinese fun and interactive. Since a few of the kids are already getting into games like D&D, I had the idea to make a text-based RPG where they can use their Chinese skills to navigate through the world, fight monsters, solve puzzles, and do other stuff that we can come up with.
 
-As this project continues, I plan to develop more complex maps, use more complex language, and expand the kids of language tasks needed to complete the quests. This first version is a very simple test run to see if the kids like the idea.
+As this project continues, I plan to develop more complex maps, use more complex language, and expand the kinds of language tasks needed to complete the quests. This first version is a very simple test run to see if the kids like the idea.
 
 PREREQUISITES:
 
